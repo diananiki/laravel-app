@@ -1,0 +1,20 @@
+php artisan make:model Article -fm
+php artisan make:model Tag -fm
+php artisan make:model Comment -fm
+php artisan make:model State -fm
+php artisan make:migration create_article_tag_table
+
+
+php artisan nake: factory ArticleFactory --nodel=Article
+
+
+
+php artisan nake: factory connentFactory --nodel=Connent
+
+
+php artisan nake: factory TagFactory --model«Tag
+
+
+php arcisan
+
+php artisan make: factory StateFactory --nodel=State
